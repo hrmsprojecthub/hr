@@ -1,6 +1,3 @@
-
-Ось виправлений текст ліцензії EULA з правильною електронною поштою:
-
 End User License Agreement (EULA)
 
 This End User License Agreement ("Agreement") is between you, the end user, and HRMSProjectHub ("Licensor"). By installing and using this module, you agree to the terms and conditions outlined in this Agreement.
